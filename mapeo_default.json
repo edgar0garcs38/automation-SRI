@@ -1,0 +1,15 @@
+{
+  "mapeos": [
+    {
+      "id": 1,
+      "cuenta_contable": "2.1.1.03.03.01",
+      "descripcion_cuenta": "Retenciones en la fuente por pagar al SRI",
+      "formulario": "F103",
+      "casillero": "999",
+      "descripcion_casillero": "Total pagado de retenciones en la fuente",
+      "columna_libro": "DEBE",
+      "signo": 1,
+      "desfase_meses": 1
+    }
+  ]
+}
